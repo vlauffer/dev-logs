@@ -13,3 +13,5 @@ Backburner:
 - Musical Solo act
 - Robot keyboard thing
 - Lost Pet Network
+- UUID: book about stock / bank app run by startup idiots
+- 5 minutes for ducks
