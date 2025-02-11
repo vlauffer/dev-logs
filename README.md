@@ -6,7 +6,7 @@ The main stuff I'm working on now:
 - General Music Stuff / Hustle Crew
 
 Backburner:
-- Soundplant 2.0
+- Soundplant 2.0 (Maybe a game (maybe more of a game by using resources to play certain parts for you))
 - Open SourceBoard Game Prototyper
 - Black Hole Stomach
 - Stand up
